@@ -1,0 +1,32 @@
+header {
+    background-color: antiquewhite;
+}
+
+nav a:link {
+    color: purple;
+    font-size: 14pt;
+    text-decoration: none;
+}
+nav ul {
+    list-style-type: none;
+}
+
+main {
+    background-color: rgb(250, 244, 237);
+}
+
+table {
+    background-color: whitesmoke;
+}
+
+.aboutMe {
+    font-size: 16pt;
+}
+
+h2 {
+    color: purple;
+}
+
+footer {
+    background-color: antiquewhite;
+}
