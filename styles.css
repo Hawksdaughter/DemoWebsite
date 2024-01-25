@@ -50,6 +50,7 @@ main {
 .top {
     display: inline-block;
     width: 90%;
+    margin-bottom: 30px;
 }
 
 .top img {
