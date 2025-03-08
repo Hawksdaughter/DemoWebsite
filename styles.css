@@ -104,7 +104,6 @@ p {
 .photoListBox img {
     border: purple solid 3px;
     float: right;
-    /* margin-right: 30px; */
     box-shadow: 2px 2px 10px rgb(73, 21, 84);
 }
 
